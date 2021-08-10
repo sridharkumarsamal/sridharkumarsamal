@@ -1,5 +1,5 @@
 👋 Hi, I’m @sridharkumarsamal
-👀 I’m interested in DATA SCIENCE, AI, ML, DL, CV and NLP
+👀 I’m interested in SQL, Html, Css, JS, C++ and NLP
 🌱 I’m currently persuing Btech. 3rd yr. under the domain of CSE
 📫 How to reach me ...badal23160@gmail.com 9337324252
 - 
